@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Household/static/css/main.0872d274.css",
+    "main.js": "/Household/static/js/main.1870a49f.js",
+    "index.html": "/Household/index.html",
+    "main.0872d274.css.map": "/Household/static/css/main.0872d274.css.map",
+    "main.1870a49f.js.map": "/Household/static/js/main.1870a49f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0872d274.css",
+    "static/js/main.1870a49f.js"
+  ]
+}
